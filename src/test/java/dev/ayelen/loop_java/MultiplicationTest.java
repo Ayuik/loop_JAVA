@@ -18,7 +18,7 @@ public class MultiplicationTest {
         //When
         int product = multiplication.multiply(multiplicand, multiplier);
         //Then
-        assertThat(product, is(3));
+        assertThat(product, is(6));
         
     }
     
