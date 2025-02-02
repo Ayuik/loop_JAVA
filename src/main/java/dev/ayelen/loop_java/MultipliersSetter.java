@@ -12,5 +12,5 @@ public class MultipliersSetter {
             multipliers.add(multiplier);
         }
         return  multipliers;     
-        };
     }
+}
